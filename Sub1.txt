@@ -995,6 +995,6 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@www.speedtest.net:443?sni=qwhtnnrgo
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@mci.tahermollaei.pw:443?sni=5tut117qc2g6nrc19j56.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  11
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cloudflare.quest:443?sni=cndb9wjin2i7vab5vvcg.khodavakili.top&host=dl.khodavakili.top&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  12
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cm.db-link.in:443?sni=0xjwju9wgnxxb7x6ck59.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  13
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@join--showwww.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao406.stunning-bassoon.pages.dev&type=ws&sni=baipiao406.stunning-bassoon.pages.dev#Irancell+12+%28%40Outline_Vpn%29
-trojan://telegram-id-privatevpns@54.194.19.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S119)🇨🇮t.me/PrivateVPNs
+vless://be0a43eb-9fc9-4692-da0f-a3187b4fdd9d@dnssss-----join.outline-vpn.cloud:2096?path=%2FSvnTeam&security=none&encryption=none&host=Fast.Com&type=ws#Irancell+405+ID%28%40Outline_Vpn%29
+trojan://8n2KOKmyfS@dl.richmondvaaadom.org:443?path=%2FCDN%3Fed%3D2048&security=tls&alpn=h2&host=dl.richmondvaaadom.org&fp=chrome&type=ws&sni=dl.richmondvaaadom.org#CDN2-VPN
 trojan://8n2KOKmyfS@dl.richmondvaaadom.org:443?path=%2FCDN%3Fed%3D2048&security=tls&alpn=h2&host=dl.richmondvaaadom.org&fp=chrome&type=ws&sni=dl.richmondvaaadom.org#CDN2-VPN
