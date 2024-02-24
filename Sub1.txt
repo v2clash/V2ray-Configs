@@ -997,4 +997,4 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cloudflare.quest:443?sni=cndb9wjin2
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cm.db-link.in:443?sni=0xjwju9wgnxxb7x6ck59.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  13
 vless://be0a43eb-9fc9-4692-da0f-a3187b4fdd9d@dnssss-----join.outline-vpn.cloud:2096?path=%2FSvnTeam&security=none&encryption=none&host=Fast.Com&type=ws#Irancell+405+ID%28%40Outline_Vpn%29
 trojan://8n2KOKmyfS@dl.richmondvaaadom.org:443?path=%2FCDN%3Fed%3D2048&security=tls&alpn=h2&host=dl.richmondvaaadom.org&fp=chrome&type=ws&sni=dl.richmondvaaadom.org#CDN2-VPN
-trojan://8n2KOKmyfS@dl.richmondvaaadom.org:443?path=%2FCDN%3Fed%3D2048&security=tls&alpn=h2&host=dl.richmondvaaadom.org&fp=chrome&type=ws&sni=dl.richmondvaaadom.org#CDN2-VPN
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Irancell+14+%28%40Outline_Vpn%29
