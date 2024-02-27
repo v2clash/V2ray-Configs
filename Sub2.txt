@@ -1,3 +1,5 @@
+vless://7b8f29a7-5a28-47ac-8cca-27234f048e61@tr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20@V2rayStore
+vless://647f1c6a-50ed-45bd-a612-c7572e0de1b1@kz-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20TCP%20@V2rayStore
 vless://4a26c7e7-ea92-4259-87d6-86833e874394@uk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20@V2rayStore
 vless://fe6b171f-0996-4cca-89b6-8bf2b7f70cb4@de-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20@V2rayStore
 vless://94e0bd36-57bb-4d1c-8315-0840fe0d26b3@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20@V2rayStore
@@ -996,5 +998,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-13.41.152.206-1081
 vmess://ewogICAgImFkZCI6ICI2OC4xODMuMTI5LjE5NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjY4LjE4My4xMjkuMTk3IiwKICAgICJpZCI6ICIxNTdhYjI0Yy0yZjAyLTQ0ZDItYjIxMS02ZDcwNjEyYzlmNjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvY2N0djEzL2hkLm0zdTgiLAogICAgInBvcnQiOiA4MDgwLAogICAgInBzIjogIvCfh7rwn4e4VVMtNjguMTgzLjEyOS4xOTctMDQ5NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.Org:443#%F0%9F%87%AC%F0%9F%87%A7GB-18.175.43.26-1083
-trojan://telegram-id-privatevpns@52.47.191.156:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-52.47.191.156-1084
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#%F0%9F%87%AC%F0%9F%87%A7GB-18.175.43.26-1085
