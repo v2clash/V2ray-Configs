@@ -1,3 +1,4 @@
+
 à`ñ!¶ia¶il·)^è ÝtÒvg­jv¦zøÂ+µÊ'µéíÂ'm×¯Ç°Ûax­©lq©^ÖÈky-¡ø­íÙ^ãN
 ¢Ñhºw¶+e{ø^iÖèw+-ÊW
 #profile-title: base64:VFZDIHwgTUlY
@@ -997,4 +998,3 @@ vless://eddfe87e-ec4a-47e3-9f0d-62e76bf887b9@nl-full.privateip.net:443?type=tcp&
 vless://68fdcb07-31eb-4d73-a8b9-23078bcb4669@nl2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://47cf952c-66b1-45ab-935a-ccc058c5057d@ca-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://80d6e626-0cd6-471e-a815-1522e15679b4@in-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B3%20India%20Vless%20TCP%20XTLS%20@V2rayStore
-vless://bc92119a-b73d-45d4-9f14-e7754bfa9ca1@fr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20XTLS%20@V2rayStore
