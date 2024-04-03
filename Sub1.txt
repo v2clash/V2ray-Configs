@@ -991,10 +991,10 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@www.speedtest.net:443?sni=qwhtnnrgo
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@mci.tahermollaei.pw:443?sni=5tut117qc2g6nrc19j56.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  11
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cloudflare.quest:443?sni=cndb9wjin2i7vab5vvcg.khodavakili.top&host=dl.khodavakili.top&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  12
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cm.db-link.in:443?sni=0xjwju9wgnxxb7x6ck59.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  13
-vless://83a306b9-7ead-49db-a60a-b09588b517bd@return.footballlovernews.com:443?type=ws&path=%2Freturn&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=return.footballlovernews.com#return-aklgtbar
-vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@thorianite.toptechnonews.com:443?encryption=none&security=tls&type=ws&host=thorianite.toptechnonews.com&sni=thorianite.toptechnonews.com&path=/nimws#thorianite.toptechnonews.com_VLESS_WS
-vless://c49ad197-37b6-40a7-971d-05e6e8a0bdac@tere.minusober.com:443?type=ws&path=%2Ftere&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=tere.minusober.com#tere-c1puls8i
-vless://d566e589-93f6-4106-8e89-443e9dc748c9@retuned.toptechnonews.com:443?encryption=none&security=tls&type=ws&host=retuned.toptechnonews.com&sni=retuned.toptechnonews.com&path=/nimws#retuned.toptechnonews.com_VLESS_WS
-vless://ce526092-81c1-42be-8354-88e58946c1f3@monardas.aurorainiceland.com:443?encryption=none&security=tls&type=ws&host=monardas.aurorainiceland.com&sni=monardas.aurorainiceland.com&path=/nimws#monardas.aurorainiceland.com_VLESS_WS
-vless://03b0a82a-1a80-4900-ab44-78a922e5aba5@kana.minusober.com:443?type=ws&path=%2Fkana&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=kana.minusober.com#kana-fikz5ouw
-vless://0f5d860d-204e-48dc-a384-76043a34add7@shaft.footballlovernews.com:443?type=ws&path=%2Fshaft&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=shaft.footballlovernews.com#shaft-psozuq11
+vless://c0f6349f-b40d-4320-a75e-550bd81cb0f1@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
+vless://fc31e59b-a364-4b0b-afa3-fddf67d28020@us2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
+vless://93bdbc56-059a-4818-a6b8-f6229c27214e@vn-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20Vless%20WS%20@V2rayStore
+vless://eccff5fc-caf9-4b13-a813-d528b5eb0404@tr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20WS%20@V2rayStore
+vless://f0448507-a7f6-4ea0-a7dc-b3547a45bc43@kz-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20WS%20@V2rayStore
+vless://33427be5-fad2-4436-bb58-666990dd78c3@uk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20WS%20@V2rayStore
+vless://5071806e-161a-44be-919b-4a4ee7339f7a@uk2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20WS%20@V2rayStore
