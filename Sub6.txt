@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.67:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-8215
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.74:3389#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-8216
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.75.136.135:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-8217
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.14:8091#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.14-8218
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.134.191:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.191-8219
@@ -996,5 +998,3 @@ vmess://eyJhZGQiOiI0NS43Ni4xOC4xOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiJ3Lm91dGxpbmUtdnBuLmNsb3VkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYTYudGVobWUxMDAuZnVuIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJwb3J0IjoiMjA4NiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEB2MkxpbmUgfCBVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIn0=
 vmess://eyJhZGQiOiIxNDYuNTkuMTcuNTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDhhODY1NjMtNjNjNS00MjE4LWU4ODctZDc1MmY4MDFhZTgyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjk2MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEB2MkxpbmUgfCBQTFx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMSB8IDBcdWZlMGZcdTIwZTMzXHVmZTBmXHUyMGUzIn0=
 vless://c5563d61-58cb-4374-a966-fc533b5312ed@104.26.13.8:2087?alpn=h2&authority=&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=&sni=ram.49z.info&type=grpc#رایگان | VLESS | @EliV2ray | CA🇨🇦 | 0️⃣1️⃣
-vless://c5563d61-58cb-4374-a966-fc533b5312ed@cl.parspack.com:2087?alpn=h2&authority=&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=&sni=ram.49z.info&type=grpc#رایگان | VLESS | @EliV2ray | CA🇨🇦 | 0️⃣2️⃣
-vless://Parsashonam-53@www.visa.com:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#رایگان | VLESS | @Parsashonam | CA🇨🇦 | 0️⃣1️⃣
