@@ -1,6 +1,3 @@
-vless://5d15a8bd-3f30-4df7-812c-1f58482d8c7a@uk-freevmess.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%200%20@V2rayStore
-trojan://cd450b19-7ab7-4fce-b5df-4db4ee9b1e21@us-full.privateip.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Trojan%20@V2rayStore
-trojan://1e269a95-135c-4710-b3a5-dd59a0a07d06@tr-full.privateip.net:443#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Trojan%20@V2rayStore
 trojan://747ee9c0-bfdc-418b-85e0-9a13774c3eac@kz-full.privateip.net:443#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Trojan%20@V2rayStore
 trojan://a08c492a-0a72-4898-859c-02033b51028b@uk-full.privateip.net:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Trojan%20@V2rayStore
 trojan://ca6fc79c-1274-4db0-9f57-a68962902f4b@de-full.privateip.net:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Trojan%20@V2rayStore
@@ -998,3 +995,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:806#%F0%9F
 trojan://auto@104.21.69.44:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev#%F0%9F%8F%81RELAY-104.21.69.44-1393
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:811#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.164-0342
 trojan://gkviEOYc@223.113.54.154:23621?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-223.113.54.154-1395
+trojan://telegram-id-privatevpns@35.159.131.253:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-35.159.131.253-1398
+trojan://gkviEOYc@223.113.54.160:23223?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-223.113.54.160-1399
+trojan://NISHIKUITAN222@125.139.249.241:17057?security=tls&sni=t221.ylks.link#%F0%9F%87%B0%F0%9F%87%B7KR-125.139.249.241-1400
